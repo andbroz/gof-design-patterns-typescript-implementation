@@ -1,0 +1,27 @@
+{
+  "name": "gof-design-patterns-typescript-implementation",
+  "version": "1.0.0",
+  "description": "1. Factory Patterns\r    - Abstract Factory\r    - Builder Pattern\r    - Factory Method\r 2. Publisher & Subscriber\r 3. Visitor & Iterator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andbroz/gof-design-patterns-typescript-implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andbroz/gof-design-patterns-typescript-implementation/issues"
+  },
+  "homepage": "https://github.com/andbroz/gof-design-patterns-typescript-implementation#readme",
+  "dependencies": {
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.4"
+  }
+}
