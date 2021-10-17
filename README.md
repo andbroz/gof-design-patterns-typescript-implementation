@@ -1,11 +1,16 @@
 # This is a repo with typescript implementation of Design Patterns from gang of four
 
+## Creational Patterns
+
 1. Factory Patterns
    - Abstract Factory
    - Builder Pattern
    - Factory Method
-2. Publisher & Subscriber
-3. Visitor & Iterator
 
+## Structural Patterns
 
-## Factory patterns
+## Behavioral Patterns
+
+1. Observer Patters
+   1. Also known as Publisher & Subscriber
+2. Visitor & Iterator
