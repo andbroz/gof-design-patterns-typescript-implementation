@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/andbroz/gof-design-patterns-typescript-implementation#readme",
   "dependencies": {
+    "node-fetch": "^2.6.5",
     "ts-node": "^10.3.0",
     "typescript": "^4.4.4"
   },
   "devDependencies": {
-    "@types/node": "^16.10.4"
+    "@types/node": "^16.10.4",
+    "@types/node-fetch": "^2.5.12"
   }
 }
