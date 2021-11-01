@@ -10,3 +10,7 @@ You can manage the undo stack in the application.
 - time travel state management like in redux devtools
 
 ### Architecture
+
+## Memento
+
+Similar to Command, instead of storing command stack we store Mementos which make undoing commands much easier
